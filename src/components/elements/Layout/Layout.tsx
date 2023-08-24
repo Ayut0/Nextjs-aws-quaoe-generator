@@ -1,11 +1,9 @@
 "use client";
 
 import { styled } from "styled-components";
-import Link from "next/link";
-import Image from "next/image";
 
 export const GradientBackground = styled.div`
-  background: linear-gradient(to right, #eda41b, #170537);
+  background: linear-gradient(to right, #f3ab27, #3e256b);
   background-size: 400% 400%;
   animation: gradient 10s ease infinite;
   height: 100vh;
