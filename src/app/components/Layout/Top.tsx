@@ -16,6 +16,9 @@ const Top = () => {
   const { numberOfQuotes } = useTop();
   return (
     <GradientBackground>
+      <CenteredElement>
+        <h1>Quote generator</h1>
+      </CenteredElement>
       <BackgroundImageLeft
         src='/assets/kobe_withTrophy.png'
         alt='Kobe Bryant holding Trophy in 2001'
@@ -23,7 +26,7 @@ const Top = () => {
         width={200}
       />
       <CenteredElement>
-        <LinkButton href='/quotes/1'>Button</LinkButton>
+        <LinkButton href='/quotes/1'>Generate Quote</LinkButton>
       </CenteredElement>
       <BackgroundImageRight
         src='/assets/kobe_lebron.png'
