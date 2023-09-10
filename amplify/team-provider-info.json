@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-motivationalquotegen-dev-82321-authRole",
+      "UnauthRoleArn": "arn:aws:iam::443137419958:role/amplify-motivationalquotegen-dev-82321-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::443137419958:role/amplify-motivationalquotegen-dev-82321-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-motivationalquotegen-dev-82321-deployment",
+      "UnauthRoleName": "amplify-motivationalquotegen-dev-82321-unauthRole",
+      "StackName": "amplify-motivationalquotegen-dev-82321",
+      "StackId": "arn:aws:cloudformation:us-west-1:443137419958:stack/amplify-motivationalquotegen-dev-82321/fc162fe0-4fed-11ee-a6b2-06260ecd06e9",
+      "AmplifyAppId": "dndlh2nyx3np4"
+    }
+  }
+}
