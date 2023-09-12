@@ -10,6 +10,20 @@
       "StackName": "amplify-motivationalquotegen-dev-82321",
       "StackId": "arn:aws:cloudformation:us-west-1:443137419958:stack/amplify-motivationalquotegen-dev-82321/fc162fe0-4fed-11ee-a6b2-06260ecd06e9",
       "AmplifyAppId": "dndlh2nyx3np4"
+    },
+    "categories": {
+      "auth": {
+        "motivationalquotegen88a3eb15": {}
+      },
+      "function": {
+        "quotegenLambda": {
+          "deploymentBucketName": "amplify-motivationalquotegen-dev-82321-deployment",
+          "s3Key": "amplify-builds/quotegenLambda-6435625779564c38337a-build.zip"
+        }
+      },
+      "api": {
+        "motivationalquotegen": {}
+      }
     }
   }
 }
